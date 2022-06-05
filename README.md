@@ -40,7 +40,8 @@
 
 - type(Int, Double, Bool).random(in: ) 메소드를 통해 range 내의 값을 랜덤으로 뽑을 수 있다.
 - String 타입이나 그 외 정해진 요소들 중에서 랜덤으로 뽑고 싶을 땐, List(배열 이름).randomElement()! 를 사용한다.
-- randomElement()로 뽑은 값은 옵셔널 타입이기 때문에 !를 사용해 강제 옵셔널 바인딩을 해준다.</br>
+- randomElement()로 뽑은 값은 옵셔널 타입이기 때문에 !를 사용해 강제 옵셔널 바인딩을 해준다.
+- 
 - array의 index는 0부터 시작한다.
 - 배열의 특정 index에 요소를 추가하고 싶을 땐 insert 메소르르 사용한다.
 - 배열의 맨 마지막에 요소를 추가하고 싶을 땐 append 메소드를 사용한다.

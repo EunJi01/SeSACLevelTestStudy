@@ -121,6 +121,20 @@ var bmi = w / (h * h)
 //    print("고도비만 입니다")
 //}
 
+bmi = 30.5
+
+if bmi <= 18.5 {
+    print("저체중 입니다.")
+} else if bmi <= 23 {
+    print("정상체중 입니다")
+} else if bmi <= 25 {
+    print("과체중 입니다")
+} else if bmi <= 30 {
+    print("비만 입니다")
+} else {
+    print("고도비만 입니다.")
+}
+
 bmi = 23
 
 // 개인학습!!!! switch문을 사용하면 더 깔끔할 것 같아 시도해 보았다.

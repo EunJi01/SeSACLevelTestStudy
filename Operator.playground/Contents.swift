@@ -27,7 +27,7 @@ let movieRuntine = 1930
 
 let d = movieRuntine / (24 * 60)
 let h = movieRuntine % (24 * 60) / 60
-let m = movieRuntine % (24 * 60) % 60 % 60
+let m = movieRuntine % (24 * 60) % 60
 
 print("해당 영화는 \(d)일 \(h)시간 \(m)분 입니다")
 

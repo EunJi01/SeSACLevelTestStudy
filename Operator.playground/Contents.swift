@@ -26,8 +26,8 @@ print("거스름돈 \(change)원을, 500원 \(rest500)개, 100원 \(rest100)개�
 let movieRuntine = 1930
 
 let d = movieRuntine / (24 * 60)
-let h = movieRuntine / 60
-let m = movieRuntine % 60
+let h = movieRuntine % (24 * 60) / 60
+let m = movieRuntine % (24 * 60) % 60 % 60
 
 print("해당 영화는 \(d)일 \(h)시간 \(m)분 입니다")
 

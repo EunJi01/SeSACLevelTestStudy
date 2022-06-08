@@ -73,7 +73,7 @@
 - 요소에 콜론( : )을 붙여 key와 value를 연결하며, key는 고유한 값이어야 한다.
 - dic[value] = key 를 통해 요소를 추가할 수 있으며, 같은 방법으로 변경도 가능하다.
 - dic.updateValue(value, forkey: ) 처럼 메소드를 활용한 추가도 가능하다.
-- 마찬가지로 dic.removeValue(forked: ) 메소드를 활용한 제거도 가능하며, 이 때 키가 지워지면 벨류도 함께 사라진다.
+- 마찬가지로 dic.removeValue(forkey: ) 메소드를 활용한 제거도 가능하며, 이 때 키가 지워지면 벨류도 함께 사라진다.
 
 </br>
 </br>

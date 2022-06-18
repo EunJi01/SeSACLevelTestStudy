@@ -117,3 +117,13 @@
 - **나눗셈을 할 땐 타입 추론을 조심하자**
 - **remove(at: )등의 메소드에는 인덱스를 기입해야 한다**
 - **random(in: )등의 메소드에는 범위를 꼭 기입해야 한다**
+
+</br>
+</br>
+</br>
+
+![1](https://user-images.githubusercontent.com/92143918/174447624-ffcb16e5-5b75-4526-b482-abd440047243.PNG)
+![2](https://user-images.githubusercontent.com/92143918/174447625-e36cd298-2a9a-4286-ba2f-02b02ad91bab.PNG)
+![3](https://user-images.githubusercontent.com/92143918/174447626-bb5d83d3-09de-4fcc-8540-a118e6167f53.PNG)
+
+**최종합격 했습니다!!! 5개월간 열심히 공부하겠습니다~!**
